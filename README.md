@@ -181,4 +181,4 @@ To become a skilled **AI Professional and Software Developer**, combining strong
 
 ---
 
-⭐ **"Learn. Code. Build. Innovate."**
+⭐ Learn. Code. Build. Innovate!!
