@@ -150,22 +150,6 @@ A web platform for e-waste reporting, collection management, environmental analy
 
 ---
 
-### 🅿️ Automated Parking Detection & Reservation System
-An intelligent parking management project designed to detect available slots, support reservations, automate slot allocation, and reduce duplicate bookings.
-
-🔗 [View Project](https://github.com/Harikrishna0314/Automated-Parking-Detection-and-Reservation-System)
-
----
-
-### 🏠 House Price Prediction
-A Machine Learning project covering data preprocessing, exploratory data analysis, feature selection, model training, evaluation, and prediction.
-
-**Tech:** Python • Pandas • NumPy • Matplotlib • Scikit-learn • Jupyter
-
-🔗 [View Project](https://github.com/Harikrishna0314/house-price-prediction)
-
----
-
 ### 🤖 AI Debugging Agent
 An AI-assisted debugging project designed to analyze programming errors, explain the cause of issues, and suggest possible fixes.
 
