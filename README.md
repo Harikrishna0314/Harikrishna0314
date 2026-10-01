@@ -173,6 +173,24 @@ An AI-assisted debugging project designed to analyze programming errors, explain
 
 ---
 
+
+
+---
+
+# 🕹️ Pac-Man vs My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harikrishna0314/Harikrishna0314/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harikrishna0314/Harikrishna0314/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Harikrishna0314/Harikrishna0314/output/pacman-contribution-graph.svg">
+</picture>
+
+_🕹️ Pac-Man eats my GitHub contributions!_
+
+</div>
+
 # 📊 GitHub Stats
 
 <div align="center">
