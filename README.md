@@ -245,6 +245,6 @@ I'm continuously working on improving my programming fundamentals, exploring AI 
 
 <div align="center">
 
-> **"Being second is to be the first of the ones who lose."**
+> # **"Being second is to be the first of the ones who lose."**
 
 </div>
