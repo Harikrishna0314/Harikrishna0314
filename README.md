@@ -240,3 +240,11 @@ I'm continuously working on improving my programming fundamentals, exploring AI 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212750221-97c3d0d2-d8d7-48e3-9fb3-73a6f37fd80f.gif"/>
 
 </div>
+
+---
+
+<div align="center">
+
+> **"Being second is to be the first of the ones who lose."**
+
+</div>
