@@ -219,6 +219,10 @@ _🕹️ Pac-Man eats my GitHub contributions!_
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
+<a href="https://leetcode.com/u/Harikrishna_182004/">
+<img src="https://img.shields.io/badge/LeetCode-Harikrishna-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode: Harikrishna"/>
+</a>
+
 </div>
 
 ---
