@@ -220,7 +220,7 @@ _🕹️ Pac-Man eats my GitHub contributions!_
 </a>
 
 <a href="https://leetcode.com/u/Harikrishna_182004/">
-<img src="https://img.shields.io/badge/LeetCode-Harikrishna-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode: Harikrishna"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" width="55" alt="LeetCode logo"/>
 </a>
 
 </div>
